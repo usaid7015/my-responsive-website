@@ -2,4 +2,4 @@
 
 Check the mockups folder and create a pixel perfect clone!
 
-link: https://usaid7015.github.io/my-responsive-website/.
+link:   https://usaid7015.github.io/my-responsive-website/
